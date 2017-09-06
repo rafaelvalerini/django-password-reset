@@ -115,7 +115,7 @@ msgstr "Olá, <string>%(username)s</strong>. Por favor escolha uma nova senha."
 
 #: templates/password_reset/reset.html:11
 msgid "Set new password"
-msgstr "Escolha uma nova senha"
+msgstr "Salvar"
 
 #: templates/password_reset/reset_sent.html:4
 msgid "Password recovery sent"
